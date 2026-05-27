@@ -56,3 +56,5 @@ customer-churn-analysis/
 │── requirements.txt
 └── README.md
 ```
+## 👤 Author
+**Sudheer Kumar Chukkala** | [LinkedIn](https://linkedin.com/in/sudheer-kumar-chukkala)
